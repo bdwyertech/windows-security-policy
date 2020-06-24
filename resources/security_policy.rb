@@ -1,4 +1,5 @@
 resource_name :security_policy
+provides :security_policy
 
 default_action :configure
 
